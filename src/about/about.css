@@ -1,0 +1,17 @@
+.about{text-align: center;
+  /*margin-top: 20px ;*/
+    min-height: calc(100vh - 150px);
+}
+
+.picContainer{width:100%;
+  flex-wrap: wrap;
+display:flex;
+   justify-content: space-around;
+
+}
+
+.pic{width:300px;
+/*height:100%;*/
+margin-top: 10px;
+
+}
